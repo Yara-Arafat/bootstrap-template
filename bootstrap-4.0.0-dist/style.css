@@ -1,0 +1,39 @@
+
+            .category-list a {
+              display: block;
+              padding: 10px;
+              text-decoration: none;
+              color: #000;
+            }
+        
+            .sale-banner {
+              background-color: #f9f9f9;
+              padding: 20px;
+              text-align: center;
+            }
+        
+            .product-card {
+              text-align: center;
+            }
+        
+            .product-card img {
+              max-width: 100%;
+              height: auto;
+            }
+        
+            .discount-banner {
+            
+              text-align: center;
+              padding: 40px 0;
+            }
+        
+            .discount-banner h2 {
+              font-size: 2rem;
+              color: red;
+            }
+        
+            .sale-section {
+              text-align: center;
+              padding: 30px 0;
+            }
+         
